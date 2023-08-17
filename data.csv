@@ -1,0 +1,13 @@
+learner_id;name;surname;cell_number;grade;parent_id
+1;Enhle;Mkhize;652314520;2;1
+2;Amahle;Cele;843652109;2;2
+3;Daniel;Van der merve;786523012;1;3
+4;Vusi;Ndlovu;842356890;3;4
+5;Jacob;Khan;798562301;4;5
+6;Mark;Swinepoel;632564829;4;6
+7;Sibani;Khanyile;642598563;5;7
+8;Nicol;Naidoo;789532012;5;8
+9;Amanda;Magudulela;832450125;5;9
+10;Amahle ;Dlamini;832512203;2;10
+11;Andries;Hapoel;785466201;3;11
+12;Katlego;Morula;786321510;4;12
